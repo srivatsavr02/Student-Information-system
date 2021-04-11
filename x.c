@@ -142,12 +142,9 @@ void window(){
     drawRectangle();
     gotoxy(28,2);
     SetColor(35);
-    printf("STUDENT RECORD SYSTEM");
-    gotoxy(20,3);
-    printf("Tribhuvan University, Kathmandu, Nepal");
-    gotoxy(31,4);
-    printf("Estd.: 2016 B.S.");
-    gotoxy(25,24);
+    printf("STUDENT INFORMATION SYSTEM");
+    gotoxy(18,3);
+    printf("College of Engineering Guindy, Anna University");
     SetColor(17);
 
 }
